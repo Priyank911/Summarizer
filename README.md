@@ -14,14 +14,14 @@ This project is a simple text summarizer built using the Hugging Face Transforme
 
 ## Demo
 
-You can view a live demo of the project [here](#). (If hosted online, replace with the actual URL.)
+You can view a live demo of the project [here](http://127.0.0.1:5000/get_summary). (If hosted online, replace with the actual URL.)
 
 ## Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/text-summarizer.git
-   cd text-summarizer
+   git clone https://github.com/yourusername/Summarizer.git
+   cd Summarizer
    ```
 
 2. **Install the required packages:**
