@@ -42,14 +42,14 @@ You can view a live demo of the project [here](http://127.0.0.1:5000/get_summary
 
 ## Methods
 
-### Method 1: Using a Pre-trained Transformer Model Using Gradio Framework.
+### Method 1: Using a Pre-trained Model Using Gradio Framework.
 
 ![Method 1](https://github.com/Priyank911/Summarizer/blob/main/gradio.png)  
 *Pre-trained Transformer Method*
 
 This method utilizes a pre-trained transformer model from Hugging Face to generate summaries. It's quick to set up and provides good results for general use cases.
 
-### Method 2: Also Using Pre- trained Transformer Model using (html/css)
+### Method 2: Also Using Pre- trained Model using (html/css)
 
 ![Method 2](https://github.com/Priyank911/Summarizer/blob/main/WithoutFrameWork.png)  
 *Using Html/css*
